@@ -1,0 +1,24 @@
+{
+  "name": "irem-owen-nodetesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-armadillo/irem-owen-nodetesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-armadillo/irem-owen-nodetesting/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-armadillo/irem-owen-nodetesting#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
+  }
+}
